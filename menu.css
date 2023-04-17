@@ -1,0 +1,9 @@
+.menu {
+    display: inline;
+    display: flex;
+    justify-content: center;}
+.knopki {
+    background-color:#014691;
+    color: aliceblue;
+    border-radius: 40px; 
+    padding: 10px 10px; }
