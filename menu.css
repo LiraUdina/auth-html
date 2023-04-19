@@ -6,3 +6,6 @@
     color: aliceblue;
     border-radius: 40px; 
     padding: 10px 10px; }
+
+    .knopki:focus {
+        background-color: #add1f8;}
